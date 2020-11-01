@@ -1,3 +1,6 @@
+<a href="https://heroku.com/deploy?template=https://github.com/onimac92/youtube-scrape">
+  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
+</a>
 # YouTube Scrape
 A YouTube search scraping API
 ## Get search results
