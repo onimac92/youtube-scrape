@@ -4,7 +4,7 @@
     "description": "Scrape YouTube searches",
     "main": "server.js",
     "dependencies": {
-        "express": "latest",
-        "request": "latest"
+        "express": "^4.17.1",
+        "request": "^2.88.2"
     }
 }
